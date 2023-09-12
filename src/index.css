@@ -1,0 +1,103 @@
+body{
+  background-color: #23252C;
+  color: #FFF;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+}
+
+.container{
+  margin: 44px auto;
+  width: 318px;
+}
+
+img{
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+h1{
+  font-size: 25px;
+  font-weight: 700;
+  margin: 21px 0 6px 0;
+}
+
+h2{
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0 0 5px 0;
+}
+
+h3{
+  font-size: 13px;
+  font-weight: 400;
+  color: #F3BF99;
+  margin: 0;
+}
+
+p{
+  font-size: 10px;
+  line-height: 150%;
+  margin: 0;
+}
+
+a{
+  color: #F5F5F5;
+  text-decoration: none;
+}
+
+.info{
+  text-align: center;
+  background-color: #1A1B21;
+  padding-bottom: 6px;
+}
+
+.website{
+  margin: 8px 0;
+}
+
+
+
+.button{
+  width: 247px;
+  border-radius: 6px;
+  padding: 9px 13px 9px 11px;
+  border: none;
+  box-sizing: border-box;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  background-color: white;
+  color: #1e1f26;
+  margin: 0 auto;
+}
+
+
+
+
+.about, .interests{
+  background-color: #1A1B21;
+
+}
+
+.about{
+  padding: 27px 34px
+}
+
+.interests{
+  padding: 0 34px 24px 34px;
+}
+
+.footer{
+  background-color: #161619;
+  padding: 20px 73px;
+  border-radius: 0 0 10px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  color: #918E9b;
+}
